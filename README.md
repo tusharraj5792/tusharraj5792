@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Tushar Raj 👋
 
-<!--
-**tusharraj5792/tusharraj5792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=tusharraj5792&label=Profile%20Views&color=blue&style=flat)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I’m a developer working on **Next.js, React, Node.js, and Payload CMS**
+- 🛠️ I specialize in **web and mobile app development**
+- 🌱 Currently learning **AI and blockchain development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharraj5792&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharraj5792&theme=dark)](https://github.com/yourusername)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharraj5792&layout=compact&theme=tokyonight)](https://github.com/yourusername)
+
+---
+
+## 🏆 GitHub Achievements  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tusharraj5792&theme=onedark)
+
+---
+
+## 📌 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharraj33)
