@@ -12,7 +12,7 @@
 ## 🔥 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharraj5792&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharraj5792&theme=dark)](https://github.com/tusharraj5792)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=tusharraj5792&theme=dark)](https://github.com/tusharraj5792)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharraj5792&layout=compact&theme=tokyonight)](https://github.com/tusharraj5792)
 
