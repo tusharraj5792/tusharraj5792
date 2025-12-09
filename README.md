@@ -120,19 +120,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharraj5792&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharraj5792&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharraj5792&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharraj5792&theme=tokyo-night&hide_border=true)
 
@@ -141,12 +128,6 @@
 ---
 
 ## 🏆 Achievements & Certifications
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tusharraj5792&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 - 🎓 **AI & Machine Learning Specialization** - Coursera
 - 🏅 **LangChain for LLM Application Development** - DeepLearning.AI
