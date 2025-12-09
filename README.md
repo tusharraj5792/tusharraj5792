@@ -127,15 +127,6 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🎓 **AI & Machine Learning Specialization** - Coursera
-- 🏅 **LangChain for LLM Application Development** - DeepLearning.AI
-- ⚡ **AWS Certified Solutions Architect**
-- 🚀 **Advanced React & Next.js Development**
-
----
-
 ## 🎯 Development Philosophy
 
 <div align="center">
