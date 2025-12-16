@@ -158,16 +158,6 @@ const tusharRaj = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/tusharraj5792/tusharraj5792/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💡 What I'm Up To
 
 - 🔭 Currently working on: **Advanced RAG systems with multi-modal inputs**
